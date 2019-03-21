@@ -1,9 +1,21 @@
 .myitems {
-  color: red
+  color: red;
+  border: 20px;
+  margin: 20px;
+  padding: 20px;
+  float: left;
 }
 #items {
-  color: orange
+  color: orange;
+  border: 20px;
+  margin: 20px;
+  padding: 20px;
+  float: left;
 }
 #my-items {
-  color: indigo
+  color: indigo;
+  border: 20px;
+  margin: 20px;
+  padding: 20px;
+  float: left;
 }
